@@ -1,0 +1,5 @@
+{
+  "name": "xenyo/swiper",
+  "description": "The Swiper.js library as a Drupal library.",
+  "type": "drupal-library"
+}
